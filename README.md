@@ -1,2 +1,0 @@
-# DynamicYear
-Created with CodeSandbox
